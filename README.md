@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Matheus Ladeia
 
 🔭 Atualmente trabalho como **assistente de analista**  
-🌱 Estudando **Dados e cibersegurança** (SQL, Excel, Python, Power BI - Infra, web, gerenciamento e análise)  
+🌱 Estudando **Dados e Cibersegurança** (SQL, Excel, Python, Power BI - Infra, web, gerenciamento e análise)  
 
 ---
 
