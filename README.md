@@ -33,12 +33,12 @@
 ---
 
 ## 📊 Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=MatheusLadeia&show_icons=true&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=MatheuSLadeia&show_icons=true&theme=radical)
 
 ---
 
 ## 🚀 Linguagens mais usadas
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusLadeia&layout=compact&theme=radical)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheuSLadeia&layout=compact&theme=radical)
 
 ---
 
