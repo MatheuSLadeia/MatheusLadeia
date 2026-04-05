@@ -43,7 +43,7 @@
 ---
 
 ## 🌟 Projeto em destaque
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MatheusLadeia&repo=Desafio_TelecomX_Part_2)](https://github.com/MatheusLadeia/Desafio_TelecomX_Part_2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MatheusLadeia&repo=Desafio_TelecomX_Part_2)](https://github.com/MatheuSLadeia/Desafio_TelecomX_Part_2)
 
 ---
 
